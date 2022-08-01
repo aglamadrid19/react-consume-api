@@ -1,4 +1,4 @@
-# Basic React frontend app using a Heroku hosted API connect to Google Firestore
+# Basic React frontend app using a Heroku hosted API connected to Google Firestore
 
 This project is a demo of a basic react application that connects to a RestAPI built with express hosted on Heroku.
 
